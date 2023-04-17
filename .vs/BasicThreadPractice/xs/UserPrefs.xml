@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E3AD19C0-3155-412F-8E4E-20B4772E4BCA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicThreadPractice/ThreadProgram.cs">
+    <Files>
+      <File FileName="BasicThreadPractice/Program.cs" Line="19" Column="32" />
+      <File FileName="BasicThreadPractice/ThreadProgram.cs" Line="61" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicThreadPractice" expanded="True">
+            <Node name="BasicThreadPractice" expanded="True">
+              <Node name="ThreadProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BasicThreadPractice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
